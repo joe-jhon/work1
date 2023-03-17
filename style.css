@@ -85,7 +85,7 @@ header a span:hover{
     top: 10px;
 }
 #menu-btn-check:checked ~ .menu-btn span {
-    background-color: rgba(255, 255, 255, 0);/*メニューオープン時は真ん中の線を透明にする*/
+    background-color: rgba(255, 255, 255, 0);
 }
 #menu-btn-check:checked ~ .menu-btn span::before {
     bottom: 0;
@@ -127,7 +127,7 @@ header a span:hover{
     position: relative;
 }
 #menu-btn-check:checked ~ .menu-content {
-    left: 40%;/*メニューを画面内へ*/
+    left: 40%;
 }
 /*-----------------------------------------------セクション1開始--------*/
 .section1{
