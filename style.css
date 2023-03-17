@@ -131,7 +131,7 @@ header a span:hover{
 }
 /*-----------------------------------------------セクション1開始--------*/
 .section1{
-    background-image: url(../images/section1-pc.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section1-pc.png?raw=true);
     background-size: 100%;
     background-repeat: no-repeat;
     aspect-ratio: 1/0.566;
@@ -212,7 +212,7 @@ bottom: 140px;
 /*-----------------------------------------------セクション2開始--------*/
 
 .section2{
-    background-image: url(../images/section2-pc.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section2-pc.png?raw=true);
     background-size: 100%;
     background-repeat: no-repeat;
     aspect-ratio: 1/0.672;
@@ -337,7 +337,7 @@ bottom: 140px;
 /*-----------------------------------------------セクション3開始--------*/
 
 .section3{
-    background-image: url(../images/section3-pc.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section3-pc.png?raw=true);
     background-size: 100%;
     background-repeat: no-repeat;
     aspect-ratio: 1/1.389;
@@ -422,7 +422,7 @@ bottom: 140px;
 .section3 .activity .illustration{
     width: 84%;
     margin: 5rem 8% 0 8%;
-    background-image: url(../images/section3-activity-img.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section3-activity-img.png?raw=true);
     background-size: 100%;
     background-repeat: no-repeat;
     aspect-ratio: 1/0.717;
@@ -513,7 +513,7 @@ bottom: 140px;
 .section3 .meeting .illustration{
     width: 84%;
     margin: 4rem 8% 0 8%;
-    background-image: url(../images/section3-meeting-img.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section3-meeting-img.png?raw=true);
     background-size: 100%;
     background-repeat: no-repeat;
     aspect-ratio: 1/0.717;
@@ -529,7 +529,7 @@ bottom: 140px;
 /*-----------------------------------------------セクション4開始--------*/
 
 .section4{
-    background-image: url(../images/section4-pc.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section4-pc.png?raw=true);
     background-size: 100%;
     background-repeat: no-repeat;
     aspect-ratio: 1/0.923;
@@ -767,7 +767,7 @@ header nav {    display: none    }
 .hamburger-menu{display:block}
 
 .section1 {
-    background-image: url(../images/section1-tablet.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section1-tablet.png?raw=true);
     aspect-ratio: 1/0.913;
 }
 .section1 .text {
@@ -776,12 +776,12 @@ header nav {    display: none    }
     bottom: 70px;
 }
 .section2 {
-    background-image: url(../images/section2-tablet.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section2-tablet.png?raw=true);
     aspect-ratio: 1/0.879;
     margin: -60px 5% 0% 1%;
 }
 .section3 {
-    background-image: url(../images/section3-tablet.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section3-tablet.png?raw=true);
     aspect-ratio: 1/2.249;
     margin: -30px 0% 0% 7%;
 }
@@ -851,7 +851,7 @@ header nav {    display: none    }
     margin: 1rem 10% 1rem 10%;
 }
 .section4 {
-    background-image: url(../images/section4-tablet.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section4-tablet.png?raw=true);
     aspect-ratio: 1/1.217;
     margin: -80px 2% 2% 2%
 }
@@ -1225,7 +1225,7 @@ footer .flower3 {
 /*----------------------------------------------------------450---------*/
 @media screen and (max-width: 450px) {
 .section1 {
-    background-image: url(../images/section1-sp.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section1-sp.png?raw=true);
     aspect-ratio: 1/1.841;
 }
 .section1 .logo {
@@ -1263,7 +1263,7 @@ footer .flower3 {
     font-size: 1.1rem;
 }
 .section2 {
-    background-image: url(../images/section2-sp.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section2-sp.png?raw=true);
     aspect-ratio: 1/2.059;
 }
 .section2 .text .section-title {
@@ -1288,7 +1288,7 @@ footer .flower3 {
     font-size: 0.9rem;
 }
 .section3 {
-    background-image: url(../images/section3-sp.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section3-sp.png?raw=true);
     aspect-ratio: 1/4.648;
     margin: -30px 0% 0% 7%;
 }
@@ -1342,7 +1342,7 @@ footer .flower3 {
     line-height: 1.6rem;
 }
 .section4 {
-    background-image: url(../images/section4-sp.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section4-sp.png?raw=true);
     aspect-ratio: 1/2.718;
 }
 .section4 .section-title {
@@ -1387,7 +1387,7 @@ footer .flower3 {
     border-width: 5px 0px 5px 0px;
 }
 .section4 .card {
-    background-image: url(../images/section4-card.png);
+    background-image: url(https://github.com/joe-jhon/work1/blob/main/section4-card.png?raw=true);
     aspect-ratio: 1/2.061;
     background-size: 100%;
     background-repeat: no-repeat;
